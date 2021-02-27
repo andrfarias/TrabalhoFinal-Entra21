@@ -1,0 +1,216 @@
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.exe.config
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.exe
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.pdb
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csprojAssemblyReference.cache
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroAdvg.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.Properties.Resources.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.GenerateResource.cache
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.CoreCompileInputs.cache
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.exe
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.pdb
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.exe.config
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.exe
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.pdb
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csprojAssemblyReference.cache
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroAdvg.resources
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroAuxiliar.resources
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroCliente.resources
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroSenha.resources
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCalcRap.resources
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCalcRelatorio.resources
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrConfig.resources
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrFichaCliente.resources
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrLogin.resources
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrPerfil.resources
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrRecupSenha.resources
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.Properties.Resources.resources
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.GenerateResource.cache
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.CoreCompileInputs.cache
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.exe
+C:\Users\André\Documents\GitHub\JusticeSoftware\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.pdb
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\bin\Debug\BancoDeDados.mdf
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\bin\Debug\BancoDeDados_log.ldf
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\bin\Debug\JusticeSoftware.exe.config
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\bin\Debug\JusticeSoftware.exe
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\bin\Debug\JusticeSoftware.pdb
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\obj\Debug\JusticeSoftware.csprojAssemblyReference.cache
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroAdvg.resources
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroAuxiliar.resources
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroCliente.resources
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroSenha.resources
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCalcRap.resources
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCalcRelatorio.resources
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\obj\Debug\JusticeSoftware.FmrConfig.resources
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\obj\Debug\JusticeSoftware.FmrFichaCliente.resources
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\obj\Debug\JusticeSoftware.FmrLogin.resources
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\obj\Debug\JusticeSoftware.FmrPerfil.resources
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\obj\Debug\JusticeSoftware.FmrRecupSenha.resources
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\obj\Debug\JusticeSoftware.Properties.Resources.resources
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.GenerateResource.cache
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.CoreCompileInputs.cache
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\obj\Debug\JusticeSoftware.exe
+C:\Users\55479\Desktop\SoftwareJustice\JusticeSoftware\obj\Debug\JusticeSoftware.pdb
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\BancoDeDados.mdf
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\BancoDeDados_log.ldf
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.exe.config
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.exe
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.pdb
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csprojAssemblyReference.cache
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroAdvg.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroAuxiliar.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroCliente.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroSenha.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCalcRap.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCalcRelatorio.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrConfig.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrFichaCliente.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrLogin.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrPerfil.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrRecupSenha.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.Properties.Resources.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.GenerateResource.cache
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.CoreCompileInputs.cache
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.exe
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.pdb
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\bin\Debug\BancoDeDados.mdf
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\bin\Debug\BancoDeDados_log.ldf
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.exe.config
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.exe
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.pdb
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\bin\Debug\ViaCep.dll
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csprojAssemblyReference.cache
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroAdvg.resources
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroAuxiliar.resources
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroCliente.resources
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroSenha.resources
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCalcRap.resources
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCalcRelatorio.resources
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrConfig.resources
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrFichaCliente.resources
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrLogin.resources
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrPerfil.resources
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrRecupSenha.resources
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.Properties.Resources.resources
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.GenerateResource.cache
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.CoreCompileInputs.cache
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.CopyComplete
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.exe
+C:\Users\TchuTchuco Comunista\Documents\LoginFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.pdb
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\ViaCep.dll
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Danielle\OneDrive\Área de Trabalho\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.CopyComplete
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\bin\Debug\BancoDeDados.mdf
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\bin\Debug\BancoDeDados_log.ldf
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\bin\Debug\JusticeSoftware.exe.config
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\bin\Debug\JusticeSoftware.exe
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\bin\Debug\JusticeSoftware.pdb
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\bin\Debug\ViaCep.dll
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.csprojAssemblyReference.cache
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroAdvg.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroAuxiliar.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroCliente.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroSenha.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCalcRap.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCalcRelatorio.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.FmrConfig.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.FmrFichaCliente.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.FmrLogin.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.FmrPerfil.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.FmrRecupSenha.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.Properties.Resources.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.GenerateResource.cache
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.CoreCompileInputs.cache
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.CopyComplete
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.exe
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftwareBD\JusticeSoftware\obj\Debug\JusticeSoftware.pdb
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\BancoDeDados.mdf
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\BancoDeDados_log.ldf
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\ViaCep.dll
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroAuxiliar.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroCliente.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroSenha.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCalcRap.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCalcRelatorio.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrConfig.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrFichaCliente.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrLogin.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrPerfil.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrRecupSenha.resources
+C:\Users\Emanuela\Documents\GitHub\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.CopyComplete
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.exe.config
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.exe
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.pdb
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\bin\Debug\ViaCep.dll
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csprojAssemblyReference.cache
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroAdvg.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroAuxiliar.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroCliente.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroSenha.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCalcRap.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCalcRelatorio.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrConfig.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrFichaCliente.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrLogin.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrPerfil.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrRecupSenha.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.Properties.Resources.resources
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.GenerateResource.cache
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.CoreCompileInputs.cache
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.CopyComplete
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.exe
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.pdb
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\bin\Debug\itextsharp.dll
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\bin\Debug\itextsharp.xml
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\bin\Debug\Model\BancoDeDados.mdf
+C:\Users\Danielle\OneDrive\Área de Trabalho\backup main\JusticeSoftware\JusticeSoftware\bin\Debug\Model\BancoDeDados_log.ldf
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\bin\Debug\Model\BancoDeDados.mdf
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\bin\Debug\Model\BancoDeDados_log.ldf
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.exe.config
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.exe
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\bin\Debug\JusticeSoftware.pdb
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\bin\Debug\itextsharp.dll
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\bin\Debug\ViaCep.dll
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\bin\Debug\itextsharp.xml
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csprojAssemblyReference.cache
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroAdvg.resources
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroAuxiliar.resources
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroCliente.resources
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCadastroSenha.resources
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCalcRap.resources
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrCalcRelatorio.resources
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrConfig.resources
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrFichaCliente.resources
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrLogin.resources
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrPerfil.resources
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.FmrRecupSenha.resources
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.Properties.Resources.resources
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.GenerateResource.cache
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.CoreCompileInputs.cache
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.csproj.CopyComplete
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.exe
+C:\Users\Emanuela\Desktop\JusticeVersaoFinal\JusticeSoftware\JusticeSoftware\obj\Debug\JusticeSoftware.pdb
